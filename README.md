@@ -8,7 +8,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - ✏️ Graduating [UM DSAI](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence) in October '22. 
 - ✔️ Defended [my bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf).
 - 📖 Currently sorting out my side projects and reading DL blogs. 
-- 🥇 [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf) 
+- 🥇 [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). 
 - 💻 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 - 🙂 Pronouns: he/him.
