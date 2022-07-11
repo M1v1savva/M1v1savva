@@ -6,7 +6,7 @@ I'm Ivan Poliakov, friends call me Vanya(/ˈvɑ̟nʲæ/). <br/>
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
 - 🤔 Looking forward to relocate within EU/US right after I graduate.
 - ✏️ Graduating UM DSAI in October '22.
-- 🥇 [Check out my CV]() 
+- 🥇 [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf) 
 - 📖 Currently sorting out my side projects and reading DL blogs. 
 - 💻 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
@@ -15,7 +15,7 @@ I'm Ivan Poliakov, friends call me Vanya(/ˈvɑ̟nʲæ/). <br/>
 
 --- 
 
-- ❗❗❗ I'm looking for a full time remote position as a software engineer/data scientist.<br/> You can contact me via one of my socials. [Click here for CV]()
+- ❗❗❗ I'm looking for a full time remote position as a software engineer/data scientist.<br/> You can contact me via one of my socials. [Click here for CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)
 - ❗❗❗ I'm offering competitive programming classes on [fiverr](https://www.fiverr.com/share/DKxe6N). Check them out!
 
 <!--
