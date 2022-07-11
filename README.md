@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 ~~No, it's not Savva. This handle is spelled as Miuisawa!~~<br/>
-I'm Ivan Poliakov, friends call me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
+I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
 - 🤔 Looking forward to relocate within EU/US right after I graduate.
