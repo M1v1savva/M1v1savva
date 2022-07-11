@@ -5,7 +5,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
 - 🤔 Looking forward to relocate within EU/US right after I graduate.
-- ✏️ Graduating UM DSAI in October '22.
+- ✏️ Graduating UDSAI in October '22.
 - 🥇 [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf) 
 - 📖 Currently sorting out my side projects and reading DL blogs. 
 - 💻 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
