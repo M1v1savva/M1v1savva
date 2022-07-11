@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-~~No, it's not Savva. Handle is spelled as Miuisawa).~~<br/>
+~~No, it's not Savva. This handle is spelled as Miuisawa!~~<br/>
 I'm Ivan Poliakov, friends call me Vanya(/ˈvɑ̟nʲæ/). <br/>
 
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
