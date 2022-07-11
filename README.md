@@ -1,6 +1,13 @@
 ### Hi! 👋
 
-No, it's not Savva (and the handle is spelled as Miuisawa). I'm Ivan Poliakov, for friends /tʲɪbʲˈæ/
+No, it's not Savva (handle is spelled as Miuisawa).<br/>
+I'm Ivan Poliakov, for friends /ˈvɑ̟nʲæ/. 
+
+- :house: Raised in Moscow, now in Maastricht till I graduate, then looking forward to relocate within EU/US.
+- :pencil2: Graduating UM DSAI in October '22.
+- 💬 [elegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
+- :simple_smile: Pronouns: he/him.
+- ::
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
