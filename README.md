@@ -14,6 +14,8 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 🙂 Pronouns: he/him.
 - 🖌️ I'm bad at [chess](https://www.chess.com/member/m1v1savva) and [occasionally watch anime](https://shikimori.one/M1v1savva1601).
 
+:pen:
+
 --- 
 
 - ❗❗❗ I'm looking for a full time remote position as a junior software engineer/data scientist.<br/> You can contact me via one of my socials. [Click here for CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)
