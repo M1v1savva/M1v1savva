@@ -12,7 +12,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 🥇 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 - 🙂 Pronouns: he/him.
-- 🐱 I'm bad at [chess](https://www.chess.com/member/m1v1savva) and [occasionally watch anime](https://shikimori.one/M1v1savva1601).
+- 🐱 I'm bad at [chess]() and [occasionally watch anime](https://shikimori.one/M1v1savva1601).
 
 --- 
 
