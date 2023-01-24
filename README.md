@@ -3,10 +3,9 @@
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
-- 🤔 Looking forward to relocate within EU/US right after I graduate.
-- ✏️ Graduating [UM DSAI](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence) '23. 
+- ✏️ Graduated [UM DSAI](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence) in December 2022. 
 - 👨‍🎓 Defended [my bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf).
-- 📖 Currently developing a chess-related website.  
+- 📖 Currently developing a chess-themed website.  
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). 
 - 🥇 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
