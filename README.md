@@ -11,7 +11,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 - 🐱 I'm bad at [chess](https://www.chess.com/member/m1v1savva) and [occasionally watch anime](https://shikimori.one/M1v1savva1601).
 --- 
--  ❗ I am offering [competitive programming classes on fiverr](https://www.fiverr.com/share/DKxe6N), although right now decided to take a little break.
+-  ❗ I am offering [competitive programming classes on fiverr](https://www.fiverr.com/share/DKxe6N), although for now decided to take a little break.
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
