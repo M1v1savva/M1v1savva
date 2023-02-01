@@ -5,7 +5,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
 - ✏️ I hold Bachelor's degree in Data Science and Artificial Intelligence from [UM DSAI](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated as of December 2022
 - 👨‍🎓 Defended [my bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf).
-- 📖 Currently developing a chess-themed website.  
+- 📖 [My most recent project](https://chesslines.onrender.com) (currently in beta).  
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). 
 - 🥇 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
