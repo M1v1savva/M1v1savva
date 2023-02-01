@@ -8,11 +8,8 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 📖 [Chesslines v0.1](https://chesslines.onrender.com) (My most recent project, currently in beta).  
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). Note: links don't work in Github view, you have to download and open pdf. 
 - 🥇 I'm [master on codeforces](https://codeforces.com/profile/M1v1savva1601) and have experience in OI. 
-- 🌱 I'm [starting kaggle](https://www.kaggle.com/m1v1savva).
 - 💬 Reach me: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 - 🐱 I'm bad at [chess](https://www.chess.com/member/m1v1savva) and [occasionally watch anime](https://shikimori.one/M1v1savva1601).
---- 
--  ❗ I am offering [competitive programming classes on fiverr](https://www.fiverr.com/share/DKxe6N), although for now decided to take a little break.
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
