@@ -3,7 +3,7 @@
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 
 - 🏠 Raised in Moscow, been in Maastricht since fall 2019.
-- ✏️ I hold Bachelor's degree in Data Science and Artificial Intelligence from [UM DSAI](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated as of December 2022
+- ✏️ I hold Bachelor's degree in Data Science and Artificial Intelligence from [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated as of December 2022
 - 👨‍🎓 [My bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf) on Generative Adversarial Networks.
 - 📖 [Chesslines v0.1](https://chesslines.onrender.com) (My most recent project, currently in beta).  
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). Note: links don't work in Github view, you have to download and open pdf. 
