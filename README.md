@@ -19,7 +19,7 @@ Now I occasionally coach people and solve problems for fun.
 ---
 
 #### personal projects:
-- 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - At some point during middle school I built a wrote a simple OpenGL clone in C++ with minimum dependencies.
+- 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - At some point during middle school I wrote a simple OpenGL clone in C++ with minimum dependencies.
 
 #### team projects: 
 - 📖 [tetris](https://github.com/M1v1savva/tetris) - Led development of an aethetic tetris game with AI powered by genetic algorithm.
