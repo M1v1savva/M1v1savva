@@ -4,7 +4,6 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 
 - 🏠 Raised in Moscow, in 2019 moved to Maastricht at the age of 17.
 - ✏️ Since Dec. 2022 - I have Bcs in Data Science and Artificial Intelligence from [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
-- 👨‍🎓 [My bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf) on anime and Generative Adversarial Networks.
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). Note: links don't work in Github view, you have to download and open pdf. 
 - 🥇 When I was in high school I participated in Russian OI, later in university I [grinded codeforces](https://codeforces.com/profile/M1v1savva1601). 
 Now I occasionally coach people and solve problems for fun.    
@@ -13,15 +12,18 @@ Now I occasionally coach people and solve problems for fun.
 
 ---
 
-### My most recent project:
-- 📖 [Chesslines](https://chesslines.onrender.com) - this is a tool for organizing your chess opening repertoire.
+### My projects:
 
+- 📖 [Chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
 
-### My other personal projects:
-- 📖 [mini-renderer](https://chesslines.onrender.com) - rendered an obj. model with a simple OpenGL clone written from scratch.
+---
 
-### Team projects: 
-- 📖 [mini-renderer](https://chesslines.onrender.com) - rendered an obj. model with a simple OpenGL clone written from scratch.
+#### personal projects:
+- 📖 [mini-renderer](https://chesslines.onrender.com) - Rendered an obj. model with a simple OpenGL clone written from scratch.
+
+#### team projects: 
+- 📖 [tetris](https://chesslines.onrender.com) - Led development of an aethetic tetris game with AI powered by genetic algorithm.
+- 📖 [throwing robot](https://chesslines.onrender.com) - The project is still used in university. Our team developed ball and cups detection for a beer-pong game
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
