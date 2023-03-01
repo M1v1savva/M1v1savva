@@ -3,7 +3,7 @@
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 
 - 🏠 Raised in Moscow, in 2019 moved to Maastricht at the age of 17.
-- ✏️ Since Dec. 2022 - I am BSc in Data Science and Artificial Intelligence from [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
+- ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
 - ✔️ [Check out my CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf). Note: links don't work in Github view, you have to download and open pdf. 
 - 🥇 When I was in high school I participated in Russian Olympiad in Informatics, later in university I [grinded codeforces](https://codeforces.com/profile/M1v1savva1601). 
 Now I occasionally coach people and solve problems for fun.    
