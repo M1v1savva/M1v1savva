@@ -12,7 +12,7 @@ Now I occasionally coach people and solve problems for fun.
 
 ---
 
-### My projects:
+### My most recent project:
 
 - 📖 [Chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
 
