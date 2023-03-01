@@ -23,7 +23,7 @@ Now I occasionally coach people and solve problems for fun.
 
 #### team projects: 
 - 📖 [tetris](https://chesslines.onrender.com) - Led development of an aethetic tetris game with AI powered by genetic algorithm.
-- 📖 [throwing robot](https://chesslines.onrender.com) - The project is still used in the university lab. team developed ball and cups detection for a beer-pong game
+- 📖 [throwing robot](https://chesslines.onrender.com) - The project is still used in the university lab. During the project the team came up with idea of designing a robot to play beer pong against. Part of the team designed object detection for the observing camera while I was responsible for processing object recognition output and feeding the calculated configuration into the robot's motors. 
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
