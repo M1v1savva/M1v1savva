@@ -19,7 +19,7 @@ Now I occasionally coach people and solve problems for fun.
 ---
 
 #### personal projects:
-- 📖 [thesis](https://github.com/M1v1savva/anime-thesis) - My thesis about making anime faces with Generative Adversarial Networks. 
+- 📖 [bachelor's thesis](https://github.com/M1v1savva/anime-thesis) - My thesis about making anime faces with Generative Adversarial Networks. 
 - 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - At some point during middle school I wrote a simple OpenGL clone in C++ with minimum dependencies.
 
 #### team projects: 
