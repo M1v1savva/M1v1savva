@@ -5,7 +5,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 🏠 Raised in Moscow, in 2019 moved to Maastricht at the age of 17.
 - ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
 - ✔️ Check out my CV: [US version](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)/[European version](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
-- 🥇 When I was in high school I participated in Russian Olympiad in Informatics, later in university I [competed on codeforces](https://codeforces.com/profile/M1v1savva1601). 
+- 🥇 During high school I participated in Russian Olympiad in Informatics, later in university I [competed on codeforces](https://codeforces.com/profile/M1v1savva1601). 
 Now I occasionally coach people and solve problems for fun.    
 - 💬 My socials: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 - 🐱 Feel free to challenge me at [chess](https://www.chess.com/member/m1v1savva).
