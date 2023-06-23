@@ -2,13 +2,13 @@
 
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 
-- 🏠 Raised in Moscow, in 2019 moved to Maastricht at the age of 17.
+- 🏠 Raised in Moscow, in Maastricht since 2019.
 - ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
-- ✔️ Check out my CV: [US version](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)/[European version](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
-- 🥇 During high school I participated in Russian Olympiad in Informatics, later in university I [competed on codeforces](https://codeforces.com/profile/M1v1savva1601). 
-Now I occasionally coach people and solve problems for fun.    
-- 💬 My socials: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
-- 🐱 [chess](https://www.chess.com/member/m1v1savva).
+- ✔️ My CV: [no photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)/[photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
+- 🥇 During high school I competed in Russian OI, later in university [did some codeforces](https://codeforces.com/profile/M1v1savva1601). 
+Now I also occasionally coach people.    
+- 💬 Socials: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
+- 🐱 chess.com account: [chess](https://www.chess.com/member/m1v1savva).
 
 ---
 
