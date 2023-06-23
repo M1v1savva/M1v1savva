@@ -8,7 +8,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - 🥇 During high school I participated in Russian Olympiad in Informatics, later in university I [competed on codeforces](https://codeforces.com/profile/M1v1savva1601). 
 Now I occasionally coach people and solve problems for fun.    
 - 💬 My socials: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
-- 🐱 Feel free to challenge me at [chess](https://www.chess.com/member/m1v1savva).
+- 🐱 [chess](https://www.chess.com/member/m1v1savva).
 
 ---
 
