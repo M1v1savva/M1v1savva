@@ -6,7 +6,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 - ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
 - ✔️ My CV: [no photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf)/[photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
 - 🥇 During high school I competed in Russian OI, later in university [did some codeforces](https://codeforces.com/profile/M1v1savva1601). 
-Now I also occasionally coach people.    
+Now I also occasionally coach.    
 - 💬 Socials: [telegram](https://t.me/M1v1savva1601)/[e-mail](ivan.polyakov.01@gmail.com). 
 
 ---
