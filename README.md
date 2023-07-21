@@ -11,7 +11,7 @@ Now I also occasionally coach.
 
 ---
 
-### My most recent project:
+#### My recent project:
 
 - 📖 [Chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
 
