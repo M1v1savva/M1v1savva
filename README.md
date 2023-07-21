@@ -19,11 +19,11 @@ Now I also occasionally coach.
 
 #### personal projects:
 - 📖 [bachelor's thesis](https://github.com/M1v1savva/anime-thesis) - My thesis about making anime faces with Generative Adversarial Networks. 
-- 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - At some point during middle school I wrote a simple OpenGL clone in C++ with minimum dependencies.
+- 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - Mini renderer from scratch
 
 #### team projects: 
-- 📖 [tetris](https://github.com/M1v1savva/tetris) - Led development of an aethetic tetris game with AI powered by genetic algorithm.
-- 📖 [throwing robot](https://github.com/M1v1savva/throwing_robot) - Robot that plays beer pong. The project is still used in the university lab. 
+- 📖 [tetris](https://github.com/M1v1savva/tetris) - Aethetic tetris game with AI powered by genetic algorithm.
+- 📖 [throwing robot](https://github.com/M1v1savva/throwing_robot) - Robot that plays juice pong. 
 
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
