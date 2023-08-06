@@ -13,7 +13,7 @@ Now I also occasionally coach.
 
 #### my recent project:
 
-- 📖 [Chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
+- 📖 [chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
 
 ---
 
