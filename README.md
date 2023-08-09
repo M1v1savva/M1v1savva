@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
+I'm a software developer and machine learning engineer from Moscow, Russia. <br/> 
+I've lived in the Maastricht, Netherlands since summer 2019. <br/>
 
 - 🏠 Raised in Moscow, in Maastricht since 2019.
 - ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
