@@ -4,7 +4,7 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 I'm a software developer and machine learning engineer from Moscow, Russia. <br/> 
 I've lived in Maastricht, Netherlands since summer 2019. <br/>
 Open to work in EU. <br/>
-- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](ivan.polyakov.01@gmail.com). 
+- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
 ### My background [or CV for more detail](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf)
 
