@@ -5,6 +5,14 @@ I'm a software developer and machine learning engineer from Moscow, Russia. <br/
 I've lived in the Maastricht, Netherlands since summer 2019. <br/>
 Open to work in EU. <br/>
 
+### My background [or CV for more detail](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf)
+
+- ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
+- 💻 Industry: I worked as a part-time NLP Engineer in a Garant (russian mass provider of a legal referencing system) from August to December 2021. There I learnt about being focusedI had later focused on my studies until I graduated and now I am looking for an industry job again.
+- 🥇 During high school I was actively studying competitive programming, competed in Russian olympiad in informatics and , later in university [did some codeforces](https://codeforces.com/profile/M1v1savva1601). 
+Now I also occasionally coach.    
+- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](ivan.polyakov.01@gmail.com). 
+
 - 🏠 Raised in Moscow, in Maastricht since 2019.
 - ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
 - ✔️ My CV: [no photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf) / [photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
