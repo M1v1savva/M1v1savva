@@ -4,35 +4,23 @@ I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_n
 I'm a software developer and machine learning engineer from Moscow, Russia. <br/> 
 I've lived in the Maastricht, Netherlands since summer 2019. <br/>
 Open to work in EU. <br/>
+- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](ivan.polyakov.01@gmail.com). 
 
 ### My background [or CV for more detail](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf)
 
-- ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
-- 💻 Industry: I worked as a part-time NLP Engineer in a Garant (russian mass provider of a legal referencing system) from August to December 2021. There I learnt about being focusedI had later focused on my studies until I graduated and now I am looking for an industry job again.
-- 🥇 During high school I was actively studying competitive programming, competed in Russian olympiad in informatics and , later in university [did some codeforces](https://codeforces.com/profile/M1v1savva1601). 
-Now I also occasionally coach.    
-- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](ivan.polyakov.01@gmail.com). 
+- ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. [bachelor's thesis](https://github.com/M1v1savva/anime-thesis) - My thesis about making anime faces with Generative Adversarial Networks. 
+- 💻 Industry: I worked as a part-time NLP Engineer in a Garant (russian mass provider of a legal referencing system) from August to December 2021. There I learnt about being focusedI had later focused on my studies until I graduated and now I am looking for an industry job again.<br/>
 
-- 🏠 Raised in Moscow, in Maastricht since 2019.
-- ✏️ BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. 
-- ✔️ My CV: [no photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV.pdf) / [photo](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf). Note: links don't work in Github view, you have to download and open pdf. 
-- 🥇 During high school I competed in Russian OI, later in university [did some codeforces](https://codeforces.com/profile/M1v1savva1601). 
-Now I also occasionally coach.    
-- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](ivan.polyakov.01@gmail.com). 
+- 🥇 During high school and early university I actively studied competitive programming, competed in Russian olympiad in informatics and [on codeforces](https://codeforces.com/profile/M1v1savva1601). Now I also occasionally coach and solve problems for fun.
 
 ---
 
-#### my recent project:
+#### pet projects:
 
 - 📖 [chesslines](https://chesslines.onrender.com) - This is a tool for organizing your chess opening repertoire.
-
----
-
-#### other personal projects:
-- 📖 [bachelor's thesis](https://github.com/M1v1savva/anime-thesis) - My thesis about making anime faces with Generative Adversarial Networks. 
 - 📖 [mini-renderer](https://github.com/M1v1savva/mini-renderer) - Mini renderer from scratch
 
-#### team projects: 
+#### highlighted university team projects: 
 - 📖 [tetris](https://github.com/M1v1savva/tetris) - Aethetic tetris game with AI powered by genetic algorithm.
 - 📖 [throwing robot](https://github.com/M1v1savva/throwing_robot) - Robot that plays juice pong. 
 
