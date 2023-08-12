@@ -3,6 +3,7 @@
 I'm Ivan Poliakov, friends [call](https://en.wikipedia.org/wiki/Eastern_Slavic_naming_customs#Diminutive_forms) me Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 I'm a software developer and machine learning engineer from Moscow, Russia. <br/> 
 I've lived in Maastricht, Netherlands since summer 2019. <br/>
+Recent graduate. <br/>
 Open to work in EU. <br/>
 - 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
