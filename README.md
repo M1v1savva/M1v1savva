@@ -11,7 +11,7 @@ Open to work in EU. <br/>
 - ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. Check out my [thesis](https://github.com/M1v1savva/anime-thesis) about making anime faces with Generative Adversarial Networks. 
 - 💻 Industry: I worked as a part-time NLP Engineer in a Garant (Russian mass provider of a legal referencing system) from August to December 2021. I had later focused on my studies until I graduated and now I am looking for an industry job again.<br/>
 
-- 🥇 During high school and early university I actively studied competitive programming, competed in Russian olympiad in informatics and [on codeforces](https://codeforces.com/profile/M1v1savva1601). Now I also occasionally coach and solve problems for fun.
+- 📝 During high school and early university I did some competitive programming, competed in Russian olympiad in informatics and [on codeforces](https://codeforces.com/profile/M1v1savva1601). Now I also occasionally coach and solve problems for fun.
 
 ---
 
