@@ -7,7 +7,9 @@ Recent graduate. <br/>
 Open to work in EU. <br/>
 - 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
-### My background [or CV for more detail](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf)
+[My github.io](https://m1v1savva.github.io/)
+
+### My background [or CV for more detail](https://m1v1savva.github.io/cv)
 
 - ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. Check out my [thesis](https://github.com/M1v1savva/anime-thesis) about making anime faces with Generative Adversarial Networks. 
 - 💻 Industry: I worked as a part-time NLP Engineer in a Garant (Russian mass provider of a legal referencing system) from August to December 2021. I had later focused on my studies until I graduated and now I am looking for an industry job again.<br/>
