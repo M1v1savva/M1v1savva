@@ -5,7 +5,7 @@ I'm a software and machine learning developer from Moscow, Russia. <br/>
 I've lived in Maastricht, Netherlands since summer 2019. <br/>
 I got my bachelor's in Data Science and AI in February 2023 and currently looking for a job in EU. <br/>
 
-- 💬 Socials: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
+- 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
 [My github.io](https://m1v1savva.github.io/)
 
