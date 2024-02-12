@@ -1,14 +1,15 @@
 ### Hi there! 👋
 
-I'm Ivan Poliakov, or simply Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
+My name's Ivan or simply Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 I'm a software and machine learning developer from Moscow, Russia. <br/> 
-I've lived in Maastricht, Netherlands since summer 2019. <br/>
-I got my bachelor's in Data Science and AI in February 2023 and currently looking for a job in EU. <br/>
+I've lived in the Netherlands for about 4.5 years now. <br/>
+I have a bachelor's degree in Data Science and AI, and now I'm pursuing a master in AI. <br/>
 
-- 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
+- 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:vpoliakov.swe@gmail.com). 
 
 [My github.io](https://m1v1savva.github.io/)
-
+[My CV](https://m1v1savva.github.io/cv)
+<!---
 ### My background [or CV for more detail](https://m1v1savva.github.io/cv)
 
 - ✏️ Education: BSc in Data Science and Artificial Intelligence, [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence), graduated in Dec. 2022. My [thesis](https://github.com/M1v1savva/anime-thesis) was about making cartoon faces with Generative Adversarial Networks. 
@@ -26,7 +27,7 @@ I got my bachelor's in Data Science and AI in February 2023 and currently lookin
 #### highlighted university team projects: 
 - 📖 [tetris](https://github.com/M1v1savva/tetris) - Aethetic tetris game with a bot powered by genetic algorithm.
 - 📖 [throwing robot](https://github.com/M1v1savva/throwing_robot) - Robot that plays juice pong. 
-
+-->
 <!--
 **M1v1savva/M1v1savva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
