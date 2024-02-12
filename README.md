@@ -3,7 +3,7 @@
 My name's Ivan or simply Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
 I'm a software and machine learning developer from Moscow, Russia. <br/> 
 I've lived in the Netherlands for about 4.5 years now. <br/>
-I have a bachelor's degree in Data Science and AI, and now I'm pursuing a master in AI. <br/>
+I have a bachelor's degree in Data Science and AI, and now I'm pursuing MSc in AI. <br/>
 
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:vpoliakov.swe@gmail.com). 
 
