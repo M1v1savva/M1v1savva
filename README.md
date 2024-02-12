@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name's Ivan or simply Vanya [(/ˈvɑ̟nʲæ/)](https://www.youtube.com/watch?v=FuaHiDwSc5o). <br/>
+My name's Ivan or simply Vanya (/ˈvɑ̟nʲæ/). <br/>
 I'm a software and machine learning developer from Moscow, Russia. <br/> 
 I've lived in the Netherlands for about 4.5 years now. <br/>
 I have a bachelor's degree in Data Science and AI, and now I'm pursuing MSc in AI. <br/>
