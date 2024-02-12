@@ -7,7 +7,7 @@ I have a bachelor's degree in Data Science and AI, and now I'm pursuing a master
 
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:vpoliakov.swe@gmail.com). 
 
-[My github.io](https://m1v1savva.github.io/)
+[My github.io](https://m1v1savva.github.io/) <br/>
 [My CV](https://m1v1savva.github.io/cv)
 <!---
 ### My background [or CV for more detail](https://m1v1savva.github.io/cv)
