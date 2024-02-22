@@ -9,7 +9,7 @@ I like to solve [cool problems](https://codeforces.com/profile/M1v1savva) someti
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva1601) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:vpoliakov.swe@gmail.com). 
 
 <!--[My github.io](https://m1v1savva.github.io/) <br/>-->
-[My CV](https://m1v1savva.github.io/cv)
+[My CV](https://github.com/M1v1savva/M1v1savva/blob/main/CV_NL.pdf)
 
 <!--[My CV](https://m1v1savva.github.io/cv)-->
 <!---
