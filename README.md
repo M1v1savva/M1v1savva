@@ -10,6 +10,8 @@ I like to solve [cool problems](https://codeforces.com/profile/M1v1savva) someti
 
 <!--[My github.io](https://m1v1savva.github.io/) <br/>-->
 [My CV](https://m1v1savva.github.io/cv)
+
+<!--[My CV](https://m1v1savva.github.io/cv)-->
 <!---
 ### My background [or CV for more detail](https://m1v1savva.github.io/cv)
 
