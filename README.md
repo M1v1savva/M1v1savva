@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-My name's Ivan or simply Vanya (/ˈvɑ̟nʲæ/). <br/>
+My name's Ivan or simply Vanya. <br/>
 I'm a software and machine learning developer from Moscow, Russia. <br/> 
-I've lived in the Netherlands for about 4.5 years now. <br/>
+I've lived in the Netherlands for about 5 years now. <br/>
 I have a BSc degree in Data Science and AI, currently pursuing MSc in AI. <br/>
 I like to solve [cool problems](https://codeforces.com/profile/M1v1savva) sometimes.
 
-- 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:vpoliakov.swe@gmail.com). 
+- 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [telegram](https://t.me/M1v1savva) / [whatsapp](https://wa.me/qr/ARG2TSUIWOXOA1) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
 <!--[My github.io](https://m1v1savva.github.io/) <br/>-->
 [My CV](https://github.com/M1v1savva/M1v1savva/blob/main/cv.pdf)
