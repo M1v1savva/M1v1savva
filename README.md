@@ -1,8 +1,7 @@
 ### Hi! 👋
 
-My name is Ivan or simply Vanya, I am an ML developer from Russia. <br/> 
-I live in the Netherlands working on my MSc degree in AI. <br/>
-I have a BSc degree in Data Science and AI from Maastricht University. <br/>
+My name is Ivan or simply Vanya, I am an ML developer. <br/>
+I currently live in the Netherlands, where I work on my MSc degree in AI. <br/>
 
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
