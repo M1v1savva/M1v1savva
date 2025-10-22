@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Ivan or simply Vanya, I am an ML developer. <br/>
+My name is Ivan or simply Vanya, I am a Freelance ML and Web developer. <br/>
 My (main) interests are Algorithmic Optimization, Deep Learning and GenAI. <br/>
 I currently live in the Netherlands, where I work on my MSc degree in AI. <br/>
 
