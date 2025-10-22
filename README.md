@@ -7,7 +7,7 @@ I currently live in the Netherlands, where I work on my MSc degree in AI. <br/>
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
 <!--[My github.io](https://m1v1savva.github.io/) <br/>-->
-[Website](https://m1v1savva.github.io)
+[Website](https://m1v1savva.github.io) <br/>
 [My CV](https://github.com/M1v1savva/M1v1savva/blob/main/cv.pdf)
 
 <!--[My CV](https://m1v1savva.github.io/cv)-->
