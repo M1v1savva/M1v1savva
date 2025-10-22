@@ -1,14 +1,14 @@
 ### Hi! 👋
 
 My name is Ivan or simply Vanya, I am a Freelance ML and Web developer. <br/>
-My (main) interests are Algorithmic Optimization, Deep Learning and GenAI. <br/>
+My main interests are GenAI and performance optimization. <br/>
 I currently live in the Netherlands, where I work on my MSc degree in AI. <br/>
 
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/m1v1savva) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
 <!--[My github.io](https://m1v1savva.github.io/) <br/>-->
 [Website](https://m1v1savva.github.io) <br/><br/>
-[My CV](https://github.com/M1v1savva/M1v1savva/blob/main/cv.pdf)
+[My CV](https://m1v1savva.github.io/cv)
 
 <!--[My CV](https://m1v1savva.github.io/cv)-->
 <!---
